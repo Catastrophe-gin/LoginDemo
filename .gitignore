@@ -1,0 +1,79 @@
+# Visual Studio / .NET / .NET 9 - common ignores
+
+# Build outputs
+/bin/
+/obj/
+/out/
+/artifacts/
+/publish/
+
+# Visual Studio workspace & user files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+*.DotSettings.user
+
+# VS Code
+.vscode/
+
+# NuGet
+*.nupkg
+packages/
+.project.lock.json
+.nuget/
+
+# Dotnet publish / tooling
+*.Publish.xml
+
+# ASP.NET / app settings & local secrets
+local.settings.json
+secrets.json
+# (If you keep environment-specific appsettings in source, remove the following)
+appsettings.*.Local.json
+appsettings.*.Local.*.json
+
+# Logs, test results, coverage
+*.log
+TestResults/
+coverage/
+
+# Database files
+*.db
+*.sqlite
+*.mdf
+*.ldf
+*.db-journal
+
+# Node / JS
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# Visual Studio source control / misc
+*.vspscc
+*.vssscc
+
+# Generated binaries (optional)
+*.exe
+*.dll
+*.pdb
+*.class
+*.jar
+*.war

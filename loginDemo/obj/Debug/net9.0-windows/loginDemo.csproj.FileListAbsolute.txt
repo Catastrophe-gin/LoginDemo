@@ -1,0 +1,16 @@
+C:\Users\Vince Baluyot\source\repos\loginDemo\loginDemo\bin\Debug\net9.0-windows\loginDemo.exe
+C:\Users\Vince Baluyot\source\repos\loginDemo\loginDemo\bin\Debug\net9.0-windows\loginDemo.deps.json
+C:\Users\Vince Baluyot\source\repos\loginDemo\loginDemo\bin\Debug\net9.0-windows\loginDemo.runtimeconfig.json
+C:\Users\Vince Baluyot\source\repos\loginDemo\loginDemo\bin\Debug\net9.0-windows\loginDemo.dll
+C:\Users\Vince Baluyot\source\repos\loginDemo\loginDemo\bin\Debug\net9.0-windows\loginDemo.pdb
+C:\Users\Vince Baluyot\source\repos\loginDemo\loginDemo\obj\Debug\net9.0-windows\loginDemo.Form1.resources
+C:\Users\Vince Baluyot\source\repos\loginDemo\loginDemo\obj\Debug\net9.0-windows\loginDemo.csproj.GenerateResource.cache
+C:\Users\Vince Baluyot\source\repos\loginDemo\loginDemo\obj\Debug\net9.0-windows\loginDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vince Baluyot\source\repos\loginDemo\loginDemo\obj\Debug\net9.0-windows\loginDemo.AssemblyInfoInputs.cache
+C:\Users\Vince Baluyot\source\repos\loginDemo\loginDemo\obj\Debug\net9.0-windows\loginDemo.AssemblyInfo.cs
+C:\Users\Vince Baluyot\source\repos\loginDemo\loginDemo\obj\Debug\net9.0-windows\loginDemo.csproj.CoreCompileInputs.cache
+C:\Users\Vince Baluyot\source\repos\loginDemo\loginDemo\obj\Debug\net9.0-windows\loginDemo.dll
+C:\Users\Vince Baluyot\source\repos\loginDemo\loginDemo\obj\Debug\net9.0-windows\refint\loginDemo.dll
+C:\Users\Vince Baluyot\source\repos\loginDemo\loginDemo\obj\Debug\net9.0-windows\loginDemo.pdb
+C:\Users\Vince Baluyot\source\repos\loginDemo\loginDemo\obj\Debug\net9.0-windows\loginDemo.genruntimeconfig.cache
+C:\Users\Vince Baluyot\source\repos\loginDemo\loginDemo\obj\Debug\net9.0-windows\ref\loginDemo.dll
