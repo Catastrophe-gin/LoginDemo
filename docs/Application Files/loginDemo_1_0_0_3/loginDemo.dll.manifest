@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="loginDemo.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="loginDemo.exe" version="1.0.0.3" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
     <assemblyIdentity name="Launcher" version="8.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -62,22 +62,22 @@
       <dsig:DigestValue>7rUL3siOi1Zg6/7qjhEChBFdGPRkNHVMUWlk3BVGo0Q=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="loginDemo.dll" size="7168">
+  <file name="loginDemo.dll" size="6656">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>yCOKQJ4MU6aseU5m6LZ00Lf5X4d2cyNPF/4KFab6ITM=</dsig:DigestValue>
+      <dsig:DigestValue>pDZs2qKn6OFzC1MjX+JgD5yr9IOt4y3ySRAv05L2+PM=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="loginDemo.exe" size="156160">
+  <file name="loginDemo.exe" size="155648">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>hC4/cK/i4AVxwiBPmDTyTEfCUJE/E5pB/reW3v7Uymk=</dsig:DigestValue>
+      <dsig:DigestValue>TCeD+fIkFsTXb/O4e2ocu4PW1rzYgsGA82SZsGJcK1Y=</dsig:DigestValue>
     </hash>
   </file>
   <file name="loginDemo.runtimeconfig.json" size="516">
