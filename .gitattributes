@@ -1,0 +1,6 @@
+# Do not modify ClickOnce deployment files
+docs/** -text
+
+*.application -text
+*.manifest -text
+*.deploy -text
