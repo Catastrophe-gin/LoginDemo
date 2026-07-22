@@ -31,6 +31,7 @@
             button1 = new Button();
             button2 = new Button();
             label1 = new Label();
+            dateTimePicker1 = new DateTimePicker();
             SuspendLayout();
             // 
             // button1
@@ -60,11 +61,19 @@
             label1.TabIndex = 2;
             label1.Text = "demo";
             // 
+            // dateTimePicker1
+            // 
+            dateTimePicker1.Location = new Point(265, 320);
+            dateTimePicker1.Name = "dateTimePicker1";
+            dateTimePicker1.Size = new Size(250, 27);
+            dateTimePicker1.TabIndex = 3;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(dateTimePicker1);
             Controls.Add(label1);
             Controls.Add(button2);
             Controls.Add(button1);
@@ -79,5 +88,6 @@
         private Button button1;
         private Button button2;
         private Label label1;
+        private DateTimePicker dateTimePicker1;
     }
 }

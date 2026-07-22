@@ -14,7 +14,7 @@
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\loginDemo_1_0_0_2\loginDemo.dll.manifest" size="4646">
+    <dependentAssembly dependencyType="install" codebase="loginDemo.dll.manifest" size="4646">
       <assemblyIdentity name="loginDemo.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>

@@ -1,0 +1,5 @@
+C:\Users\Vince Baluyot\source\repos\loginDemo\loginDemo\bin\Release\net9.0-windows\app.publish\loginDemo.exe
+C:\Users\Vince Baluyot\source\repos\loginDemo\loginDemo\bin\Release\net9.0-windows\app.publish\loginDemo.dll
+C:\Users\Vince Baluyot\source\repos\loginDemo\loginDemo\bin\Release\net9.0-windows\app.publish\loginDemo.deps.json
+C:\Users\Vince Baluyot\source\repos\loginDemo\loginDemo\bin\Release\net9.0-windows\app.publish\loginDemo.runtimeconfig.json
+C:\Users\Vince Baluyot\source\repos\loginDemo\loginDemo\bin\Release\net9.0-windows\app.publish\loginDemo.pdb
